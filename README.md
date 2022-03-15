@@ -1,2 +1,2 @@
 # feliciacxe.github.io
-This is my portfolio for data analytics.
+Welcome to my portfolio
